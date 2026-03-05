@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct RE_LifeApp: App {
+    
+    @AppStorage("hasSeenWelcome") var hasSeenWelcome: Bool = false
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+                MainAppView()
+            }
         }
     }
-}
+
