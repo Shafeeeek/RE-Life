@@ -1,0 +1,24 @@
+//
+//  ContentView.swift
+//  RE-Life
+//
+//  Created by shafeek macbook pro on 05/03/2026.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
