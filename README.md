@@ -207,5 +207,5 @@ Built with ❤️ using SwiftUI. Designed for anyone trying to build discipline,
 ---
 
 <p align="center">
-  Made with 🔥 by <a href="https://github.com/YOUR_USERNAME">Your Name</a>
+  Made with 🔥 by <a href="https://github.com/YOUR_USERNAME">Shafeeeek</a>
 </p>
