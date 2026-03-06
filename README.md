@@ -9,10 +9,10 @@ RE-LIFE is a beautifully designed iOS streak tracker built with **SwiftUI** to h
 ## 📱 Screenshots
 
 
-<img width="300" height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 30" src="https://github.com/user-attachments/assets/8697b3e0-37fd-4814-9499-a7f56d1a09d3" />
-<img width="300" height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 33" src="https://github.com/user-attachments/assets/fa90006b-a7d8-45af-8c40-258f596bedbe" />
-<img width="300" height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 35" src="https://github.com/user-attachments/assets/0669ee76-0293-43ef-97ea-58aec2f90f19" />
-<img width="300" height="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 38" src="https://github.com/user-attachments/assets/f605f150-d7a8-46c0-9574-c462bb5c70a8" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 30" src="https://github.com/user-attachments/assets/8697b3e0-37fd-4814-9499-a7f56d1a09d3" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 33" src="https://github.com/user-attachments/assets/fa90006b-a7d8-45af-8c40-258f596bedbe" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 35" src="https://github.com/user-attachments/assets/0669ee76-0293-43ef-97ea-58aec2f90f19" />
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-06 at 01 37 38" src="https://github.com/user-attachments/assets/f605f150-d7a8-46c0-9574-c462bb5c70a8" />
 
 ---
 
